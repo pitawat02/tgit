@@ -1,3 +1,3 @@
 iojdopaisd =10
 oisdfjoisjdf ='fafdjj'
-asd[opkasf] = '1'
+asd[opkasf] = '10','21'
